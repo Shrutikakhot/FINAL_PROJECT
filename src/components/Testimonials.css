@@ -1,0 +1,25 @@
+.testimonials-container {
+  width: 80%;
+  margin: auto;
+  text-align: center;
+  padding: 40px 0;
+}
+
+.testimonials-container h2 {
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
+
+.testimonial {
+  padding: 20px;
+  font-size: 1.2rem;
+}
+
+.testimonial p {
+  margin: 0;
+}
+
+.testimonial p:nth-child(2) {
+  margin-top: 10px;
+  font-weight: bold;
+}
